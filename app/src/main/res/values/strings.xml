@@ -15,5 +15,16 @@
     <string name="title_action_settings">Settings</string>
     <string name="description_action_settings">Open settings</string>
 
+    // Chat View Holder
+    <string name="hint_tv_name">John Doe</string>
+    <string name="hint_tv_message">Hi! Just wanted to check in and see how you are doing.</string>
+    <string name="hint_tv_date_time">13/1/25</string>
+
+    // Bottom Navigation View
+    <string name="title_nav_chats">Chats</string>
+    <string name="title_nav_updates">Updates</string>
+    <string name="title_nav_communities">Communities</string>
+    <string name="title_nav_calls">Calls</string>
+
 
 </resources>

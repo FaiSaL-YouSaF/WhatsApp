@@ -6,6 +6,7 @@
     <color name="whatsapp_green">#1DAA61</color>
 
     <color name="bg_gray">#EEEEEEEE</color>
+    <color name="light_gray">#FFD3D3D3</color>
 
     <color name="bg_profile">#FF33EE55</color>
 </resources>

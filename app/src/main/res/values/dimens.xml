@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="iv_profile_pic_size">48dp</dimen>
+
+    <dimen name="chat_bubble_margin">10dp</dimen>
+    <dimen name="chat_bubble_padding">8dp</dimen>
+    <dimen name="tv_name_text_size">14sp</dimen>
+    <dimen name="tv_message_text_size">12sp</dimen>
+    <dimen name="tv_message_margin_top">4dp</dimen>
+    <dimen name="tv_date_time_text_size">10sp</dimen>
+
+
+</resources>
