@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+
+    // Menu items
+    <string name="title_action_camera">Camera</string>
+    <string name="description_action_camera">Open Camera</string>
+    <string name="title_action_new_group">New Group</string>
+    <string name="description_action_new_group">Create a new group</string>
+    <string name="title_action_new_broadcast">New Broadcast</string>
+    <string name="description_action_new_broadcast">Create a new broadcast</string>
+    <string name="title_action_linked_devices">Linked Devices</string>
+    <string name="description_action_linked_devices">View linked devices</string>
+    <string name="title_action_starred_messages">Starred Messages</string>
+    <string name="description_action_starred_messages">View starred messages</string>
+    <string name="title_action_settings">Settings</string>
+    <string name="description_action_settings">Open settings</string>
+
+
+</resources>

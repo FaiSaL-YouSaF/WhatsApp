@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_camera"
+        android:icon="@drawable/outline_camera_alt_24"
+        android:title="@string/title_action_camera"
+        android:contentDescription="@string/description_action_camera"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_new_group"
+        android:title="@string/title_action_new_group"
+        android:contentDescription="@string/description_action_new_group"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_new_broadcast"
+        android:title="@string/title_action_new_broadcast"
+        android:contentDescription="@string/description_action_new_broadcast"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_linked_devices"
+        android:title="@string/title_action_linked_devices"
+        android:contentDescription="@string/description_action_linked_devices"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_starred_messages"
+        android:title="@string/title_action_starred_messages"
+        android:contentDescription="@string/description_action_starred_messages"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/title_action_settings"
+        android:contentDescription="@string/description_action_settings"
+        app:showAsAction="never"/>
+
+</menu>
